@@ -117,11 +117,3 @@ Logs are sent via HTTP POST to `http://20.244.56.144/evaluation-service/logs`.
 - Accessible buttons and interactive elements
 - Uses both `App.css` and `index.css` for scoped and global styles
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-## Maintainer
-
-Created by [Your Name]  
-For evaluation and development purposes at Affordmed.
